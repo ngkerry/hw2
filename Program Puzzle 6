@@ -1,0 +1,31 @@
+right(); 
+
+if (getColor()=="red") 
+{  
+up();
+up();
+up();
+} 
+else 
+if (getColor()=="blue") 
+{
+down();  
+down(); 
+down(); 
+}
+
+if (getColor()=="red")
+{ 
+left();
+up();
+down();  
+}
+
+else
+  
+if (getColor()=="blue")  
+{
+right();
+down();
+up(); 
+}
