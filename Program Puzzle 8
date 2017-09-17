@@ -1,45 +1,40 @@
-down();
-down();
-down();
-down();
-down();
-down();
-down();
-down();
+var steps = 0;
+while (steps <= 7) 
+{
+  down();
+  steps = steps + 1; 
+  } 
+right(); 
 right();
+var steps = 0;
+while (steps < 7)
+{
+up();
+  steps = steps + 1;
+}
+right(); 
 right();
-up();
-up();
-up();
-up();
-up();
-up();
-up();
+var steps = 0;
+while (steps < 7)
+{
+down();
+  steps = steps + 1; 
+}
+right(); 
 right();
+var steps = 0;
+while (steps < 7)
+{
+up();
+   steps = steps + 1;
+}
+right(); 
 right();
+var steps = 0;
+while (steps < 7)
+{
 down();
-down();
-down();
-down();
-down();
-down();
-down();
-right();
-right();
+   steps = steps + 1;
+}
+right(); 
 up();
-up();
-up();
-up();
-up();
-up();
-up();
-right();
-right();
-down();
-down();
-down();
-down();
-down();
-down();
-down();
-right();
